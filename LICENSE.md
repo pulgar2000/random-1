@@ -1,0 +1,1 @@
+Archivo de licencia para proyecto random
